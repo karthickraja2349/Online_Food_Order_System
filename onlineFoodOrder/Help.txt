@@ -1,0 +1,23 @@
+Help;
+
+While VALIDATION! 
+
+Name Validation    ; If you are a new user , please make sure while entering your name/username/location . The names should be contains only ALPHABETS with 3 to 30 characters;
+
+MobileNo validation; If you are a new user , please make sure while entering your phone number. The number should contains only NUMERICS(INTEGERS) with MUST 10 digits;
+
+Aadhar validation ;  If you are a new user , please make sure while entering your aadhar number. The number should contains only NUMERICS(INTEGERS) with MUST 12 digits;
+
+Password validation; If you are a new user , please make sure while entering your password . The password should contains only 8 characters , starts with ALPHABET may contains     number or not  . And sure you must enter atleast one special character.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+While ORDERING!
+
+Mostly we prefer OFFLINE payment method;
+you must sure while choosing FoodId . If you do any mistake,sorry we are not responsible for that.
+After ordering , please maintain your patience. 
+Have a good day!!
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+while CANCELLING!
+
+you should cancel your food at the time of 5 minutes of your transaction, otherwise order cannot cancel!
+please make be sensible , Don't waste the food; 
